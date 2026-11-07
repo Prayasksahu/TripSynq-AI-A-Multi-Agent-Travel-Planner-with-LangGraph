@@ -1,4 +1,41 @@
-# TripSynq AI — Multi-Agent Travel Planner
+<h1 align="center">✈️ TripSynq AI</h1>
+
+<p align="center">
+  <strong>Multi-Agent Travel Planner powered by LangGraph</strong><br>
+  Plan trips with AI-assisted flight research, hotel discovery, and day-by-day itineraries.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.13"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-0.154.0-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
+  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="https://img.shields.io/badge/LangGraph-1.2.16-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"></a>
+</p>
+
+<p align="center">
+  <a href="https://groq.com/"><img src="https://img.shields.io/badge/LLM-Groq-F55036?style=for-the-badge" alt="Groq"></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://tavily.com/"><img src="https://img.shields.io/badge/Search-Tavily-6C47FF?style=for-the-badge" alt="Tavily"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/stargazers"><img src="https://img.shields.io/github/stars/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/network/members"><img src="https://img.shields.io/github/forks/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph?style=social" alt="GitHub forks"></a>
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/issues"><img src="https://img.shields.io/github/issues/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph?style=flat-square" alt="GitHub issues"></a>
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/commits/main"><img src="https://img.shields.io/github/last-commit/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph?style=flat-square" alt="Last commit"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph"><img src="https://img.shields.io/badge/View%20Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source on GitHub"></a>
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/issues/new"><img src="https://img.shields.io/badge/Report%20a%20Bug-Open%20Issue-D73A4A?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug"></a>
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/issues/new?labels=enhancement"><img src="https://img.shields.io/badge/Request%20Feature-Suggest%20an%20Idea-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Request a feature"></a>
+  <a href="https://github.com/Prayasksahu/TripSynq-AI-A-Multi-Agent-Travel-Planner-with-LangGraph/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Read license"></a>
+</p>
+
+---
+
+## Overview
 
 TripSynq AI is an AI-powered travel-planning web application that turns a natural-language travel request into a structured travel plan. It combines flight-status lookup, hotel research, and LLM-generated itinerary planning through a workflow orchestrated with **LangGraph**.
 
